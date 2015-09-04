@@ -42,6 +42,9 @@
     NSArray *Imagearry=@[@"",@"",@"",@""];
     
     
+    // this code is from vivek
+    
+    
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
