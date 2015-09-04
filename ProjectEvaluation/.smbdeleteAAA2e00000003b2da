@@ -83,7 +83,7 @@
     Obj.navTitle=[titlearry objectAtIndex:indexPath.row];
     SB_PUSH(Obj);
     
-   // github test
+   
     
     
    }
